@@ -1,0 +1,20 @@
+{
+  "name": "scriptout",
+  "version": "1.0.0",
+  "description": "Outputs script contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatkevin/scriptOut/"
+  },
+  "keywords": [
+    "Output",
+    "script",
+    "WWW"
+  ],
+  "author": "Kevin Sedgley",
+  "license": "ISC"
+}
